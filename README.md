@@ -88,22 +88,6 @@ During this project, I gained practical experience in:
 * Front-End Performance Optimization
 * UI/UX Best Practices
 
-## Internship Details
-
-**Organization:** ApexPlanet Software Pvt. Ltd.
-
-**Role:** Front End Developer Intern
-
-**Duration:** November 2025 – December 2025
-
-### Responsibilities
-
-* Developed and maintained responsive web applications using HTML, CSS, and JavaScript.
-* Implemented dynamic UI components and interactive user experiences.
-* Integrated front-end features and optimized performance.
-* Applied debugging and testing techniques to improve reliability.
-* Followed modern web development best practices.
-
 ## Future Enhancements
 
 * Backend integration for contact form submissions.
